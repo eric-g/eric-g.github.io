@@ -3,18 +3,18 @@ markdown: redcarpet
 highlighter: false
 
 # Site settings
-title: "Mediator"
+title: "blaug"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Comments from eric-g
 
-email: a-mail@mail.mail
+email: gausnell@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Eric G'
+author: 'Eric G'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -39,7 +39,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/eric-g
     desc:	Fork me on github
     share_url:
     share_title:
