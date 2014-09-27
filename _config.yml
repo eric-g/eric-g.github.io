@@ -19,7 +19,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://google.com" # the base hostname & protocol for your site
+url: "https://www.google.com/search?q=bears&es_sm=122&source=lnms&tbm=isch&sa=X&ei=8jEmVPuaNaTBigLDjYGoBQ&ved=0CAgQ_AUoAQ&biw=1242&bih=619" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
