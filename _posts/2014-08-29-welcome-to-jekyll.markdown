@@ -3,7 +3,8 @@ layout: post
 title:  "Welcome to blaug."
 date:   2014-08-29 14:34:25
 categories: jekyll update
-tags: featured
+tags: no_tags
+# tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/snip.JPG
 ---
 This is the place to start your searching about for images of bears.
