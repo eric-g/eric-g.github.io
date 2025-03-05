@@ -1,3 +1,2 @@
 ---
 BUNDLE_PATH: "vendor/bundle"
-BUNDLE_BUILD__EVENTMACHINE: "--with-pkg-config=/usr/local/opt/openssl@1.1/lib/pkgconfig"
