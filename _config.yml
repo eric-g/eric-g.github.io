@@ -20,7 +20,7 @@
 
 title: GitHub page
 email: gauswell@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines
   Personal GitHub page
 domain: eric-g.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,8 +28,20 @@ url: "https://eric-g.github.io" # the base hostname & protocol for your site, e.
 #twitter_username: jekyllrb
 github_username:  eric-g
 
+author:
+  name: "eric-g"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  location: "Seattle, WA"
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+
 # Build settings
-#theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 plugins:
