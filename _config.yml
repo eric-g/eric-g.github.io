@@ -18,28 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: GitHub page
+title: eric-g's GitHub page
 email: gauswell@gmail.com
 description: >- # this means to ignore newlines
   Personal GitHub page
 domain: eric-g.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eric-g.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
 github_username:  eric-g
 
 author:
   name: "eric-g"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  bio: "I am an **QA Engineer**." # Note: Markdown is allowed
   location: "Seattle, WA"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
       url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/eric-g"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
