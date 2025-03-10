@@ -33,9 +33,9 @@ author:
   bio: "I am a **QA Engineer**." # Note: Markdown is allowed
   location: "Seattle, WA"
   links:
-    - label: "Made Mistakes"
+    - label: "Resume"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: /resume/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/eric-g"
