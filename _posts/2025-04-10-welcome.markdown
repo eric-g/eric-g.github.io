@@ -1,0 +1,9 @@
+---
+layout: single
+title:  "Hello!"
+date:   2025-04-10 08:00:00 -0800
+categories: personal
+---
+You have reached my personal Github profile page. I am a QA Engineer in the Seattle metro area seeking a new role. Please take a look at my resume and feel welcome to peruse my repos if you are so inclined.
+
+Thank you!
